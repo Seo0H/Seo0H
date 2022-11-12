@@ -8,9 +8,18 @@
 <div align = "center">
   <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=orange"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-Springboot-green?style=flat-square&logo=spring&logoColor=white"/>
+</div>
+
+<h3 align="center">✒ Seo log ✒</h3>
+
+<div align = "center">
+  <a href="https://seo0h.tistory.com" target='_blank' >
+    <img src="https://img.shields.io/badge/Tistory-Seo.log-EEEEEE?style=for-the-badge&logo=Tistory&logoColor=white"/>
+  </a>
 </div>
