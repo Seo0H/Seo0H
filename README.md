@@ -3,6 +3,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo0H&theme=dark&layout=compact" />
 </div>
 
+<br>
+
 <h3 align="center">✏ Studying ✏</h3>
 
 <div align = "center">
@@ -16,10 +18,12 @@
   <img src="https://img.shields.io/badge/Spring-Springboot-green?style=flat-square&logo=spring&logoColor=white"/>
 </div>
 
+<br>
+
 <h3 align="center">✒ Seo log ✒</h3>
 
 <div align = "center">
-  <a href="https://seo0h.tistory.com" target='_blank' >
+  <a href="https://seo0h.tistory.com" target="_blank" >
     <img src="https://img.shields.io/badge/Tistory-Seo.log-EEEEEE?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
 </div>
