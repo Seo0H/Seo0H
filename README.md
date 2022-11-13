@@ -26,4 +26,8 @@
   <a href="https://seo0h.tistory.com" target="_blank" >
     <img src="https://img.shields.io/badge/Tistory-Seo.log-EEEEEE?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
+  <br>
+  <a href="https://seo0h.notion.site/SEO-Portfolio-88d0f94693c64a69a5fc4fb527db3b3f" target="_blank" >
+    <img src="https://img.shields.io/badge/Notion-Seo Portfolio-EEEEEE?style=for-the-badge&logo=Notion&logoColor=white"/>
+  </a>
 </div>
