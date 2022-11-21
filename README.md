@@ -1,7 +1,8 @@
 
 <div align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo0H&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo0H&theme=dark&layout=compact" />            
 </div>
+
 
 <br>
 
@@ -30,4 +31,10 @@
   <a href="https://seo0h.notion.site/SEO-Portfolio-88d0f94693c64a69a5fc4fb527db3b3f" target="_blank" >
     <img src="https://img.shields.io/badge/Notion-Seo Portfolio-EEEEEE?style=for-the-badge&logo=Notion&logoColor=white"/>
   </a>
+</div>
+
+<br>
+<br>
+<div align = "center">
+<a href="https://hits.sh/github.com/Seo0H/"><img alt="Hits" src="https://hits.sh/github.com/Seo0H.svg?view=today-total&style=flat-square&color=ebebeb&logo=github"/>
 </div>
