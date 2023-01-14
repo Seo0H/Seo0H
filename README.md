@@ -1,6 +1,6 @@
 
 <div align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo0H&theme=dark&layout=compact" />            
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Seo0H&theme=dark&layout=compact" />            
 </div>
 
 
