@@ -1,11 +1,4 @@
 
-<div align = "center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Seo0H&theme=dark&layout=compact" />            
-</div>
-
-
-<br>
-
 <h3 align="center">✏ Studying ✏</h3>
 
 <div align = "center">
