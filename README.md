@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seoh" />
 </div>
 
 <hr />
